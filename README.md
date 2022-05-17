@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning, learning and learning... 😎
 - 🌱 I’m currently learning HTML, CSS, JS, React
 - 💞️ I’m looking to collaborate on a place that letting me dive in the big ocean of programming 🌊🌊🌊
-- 📫 How to reach me [(https://www.linkedin.com/in/m-andrea-salas/)], [andrea.s.vidal00@gmail.com] 🌟
+- 📫 How to reach me [https://www.linkedin.com/in/m-andrea-salas/], [andrea.s.vidal00@gmail.com] 🌟
 
 <!---
 andreasvidal/andreasvidal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
