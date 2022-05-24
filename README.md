@@ -8,4 +8,4 @@
 andreasvidal/andreasvidal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![MARIANNE SALAS VIDAL (2)](https://user-images.githubusercontent.com/68829140/170089677-fd854154-9ff8-4fec-976a-082487bc4753.png)
+
